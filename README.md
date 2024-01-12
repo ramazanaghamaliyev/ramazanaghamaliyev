@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarkhanhajibayov.sarkhanhajibayov" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazanaghamaliyev.ramazanaghamaliyev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=337CCF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarkhan+Hajibayov!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=337CCF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramazan+Aghamaliyev!;" />
 </h1>
 
 <h3 align="center">A passionate full stack developer from Azerbaijan 🇦🇿 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Flag of Azerbaijan" width="30">
@@ -16,15 +16,13 @@
  <br/>
 
 <div align="center"> 
-  <a href="mailto:shacibyov@gmail.com">
+  <a href="mailto:agamaliyev2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sarkhan-hajibayov-2a1677208/" target="_blank">
+  <a href="https://www.linkedin.com/in/ramazan-aghamaliyev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-fe27f.web.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  
 </div>
 
  <hr/>
